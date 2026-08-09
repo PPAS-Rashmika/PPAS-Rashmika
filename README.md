@@ -4,7 +4,7 @@
 
 <!-- Professional Entry Banner (MUST replace with your hosted URL) -->
 <!-- Example direct URL: https://i.imgur.com/your-image.png -->
-<img src="https://github.com/PPAS-Rashmika/PPAS-Rashmika/blob/main/1600w-Ul0VxRcgKbw.webp" alt="PPAS-Rashmika Professional Banner" width="100%" />
+<img src="https://github.com/PPAS-Rashmika/PPAS-Rashmika/blob/main/banner%20github.png" alt="PPAS-Rashmika Professional Banner" width="100%" />
 
 <br/>
 <br/>
