@@ -29,14 +29,6 @@
   <img src="https://img.shields.io/badge/Electronics-8B0000?style=for-the-badge&logo=microchip&logoColor=white" alt="Electronics" />
 </p>
 
-### ❖ SYSTEM DIAGNOSTICS (STATS) ❖
-
-<!-- Replaced inflexible table with responsive paragraph layout -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PPAS-Rashmika&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PPAS-Rashmika&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
-
 <br/>
 
 <!-- GitHub Streak -->
@@ -48,7 +40,7 @@
 ### ❖ ESTABLISH CONNECTION ❖
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ppas-rashmika">
+  <a href="https://www.linkedin.com/in/ppas-rashmika?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/share/1BXq1SSw4y/">
