@@ -8,8 +8,6 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
 
 <!-- Start of original Cyberpunk Content -->
 <!-- Animated Typing SVG Header -->
