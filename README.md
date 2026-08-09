@@ -51,7 +51,6 @@
 <!-- GitHub Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PPAS-Rashmika&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cyber.png" width="100%">
 
 <!-- Connection Links -->
 ### ❖ ESTABLISH CONNECTION ❖
