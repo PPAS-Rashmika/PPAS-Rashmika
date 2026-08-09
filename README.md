@@ -8,8 +8,6 @@
 
 <br/>
 <br/>
-<!-- A strong, futuristic separator line to transition themes -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cyber.png" width="100%">
 <br/>
 <br/>
 
