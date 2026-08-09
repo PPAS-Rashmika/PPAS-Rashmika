@@ -1,5 +1,17 @@
 <div align="center">
 
+<!-- Professional Entry Banner (MUST replace with your hosted URL) -->
+<!-- Example direct URL: https://i.imgur.com/your-image.png -->
+<img src="https://github.com/PPAS-Rashmika/PPAS-Rashmika/blob/main/1600w-Ul0VxRcgKbw.webp" alt="PPAS-Rashmika Professional Banner" width="100%" />
+
+<br/>
+<br/>
+<!-- A strong, futuristic separator line to transition themes -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cyber.png" width="100%">
+<br/>
+<br/>
+
+<!-- Start of original Cyberpunk Content -->
 <!-- Animated Typing SVG Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=System+Initialized...;Hello,+I'm+PPAS-Rashmika;Welcome+to+my+Neural+Network" alt="Typing SVG" />
 
