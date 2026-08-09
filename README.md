@@ -48,7 +48,7 @@
   </a>
 </p>
 
-<br/><br/>
+<br/>
 <i>"Pushing boundaries beyond the macroscopic scale."</i>
 
 </div>
