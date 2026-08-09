@@ -1,9 +1,6 @@
 <div align="center">
 
 <!-- Professional Entry Banner (MUST replace with your hosted URL) -->
-
-<!-- Professional Entry Banner (MUST replace with your hosted URL) -->
-<!-- Example direct URL: https://i.imgur.com/your-image.png -->
 <img src="https://github.com/PPAS-Rashmika/PPAS-Rashmika/blob/main/banner%20github.png" alt="PPAS-Rashmika Professional Banner" width="100%" />
 
 <br/>
@@ -34,33 +31,30 @@
 
 ### ❖ SYSTEM DIAGNOSTICS (STATS) ❖
 
-<!-- GitHub Stats side-by-side using table -->
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=PPAS-Rashmika&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PPAS-Rashmika&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<!-- Replaced inflexible table with responsive paragraph layout -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PPAS-Rashmika&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PPAS-Rashmika&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</p>
 
 <br/>
 
 <!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PPAS-Rashmika&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PPAS-Rashmika&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
 
 <!-- Connection Links -->
 ### ❖ ESTABLISH CONNECTION ❖
 
-<a href="https://www.linkedin.com/in/ppas-rashmika">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://www.facebook.com/share/1BXq1SSw4y/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ppas-rashmika">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/share/1BXq1SSw4y/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
 
 <br/><br/>
 <i>"Pushing boundaries beyond the macroscopic scale."</i>
