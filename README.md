@@ -18,10 +18,9 @@
 <!-- Brief Intro -->
 **`[ >_ INITIATING USER PROTOCOL ]`**  
 <p align="center">
-  Bridging the physical and digital realms. Engineering solutions at the intersection of <b>Nanotechnology, Analog Electronics, and Low-Level Programming</b>. Building the future, one line of code at a time.
+  Bridging the physical and digital realms. Engineering solutions at the intersection of <b>Nanotechnology, Analog Electronics, and Programming</b>. Building the future, one line of code at a time.
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cyber.png" width="100%">
 
 ### ❖ CORE MODULES (TECH STACK) ❖
 
@@ -32,8 +31,6 @@
   <img src="https://img.shields.io/badge/Nanotechnology-00979D?style=for-the-badge&logo=molecule&logoColor=white" alt="Nanotech" />
   <img src="https://img.shields.io/badge/Electronics-8B0000?style=for-the-badge&logo=microchip&logoColor=white" alt="Electronics" />
 </p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cyber.png" width="100%">
 
 ### ❖ SYSTEM DIAGNOSTICS (STATS) ❖
 
